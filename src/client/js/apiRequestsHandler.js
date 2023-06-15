@@ -5,12 +5,11 @@ const geonamesQuery = 'searchJSON?formatted=true&q=';
 
 //weatherbit api parameters 
 const weatherbitUrl = 'http://api.weatherbit.io/v2.0/forecast/';
-//add apiKey and name it "weatherbitKey"
+const weatherbitKey = '59778792fbcc4303806a70a20469f149';
 
 //pixabay api 
 const pixabayUrl ='https://pixabay.com/api/';
-//add apiKey and name it "pixabayKey"
-
+const  pixabayKey ='28654242-78ae036bc6b751045ae50913e';
 
 
 
